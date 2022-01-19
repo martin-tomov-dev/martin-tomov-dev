@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Martin Tomov
+👋 Hi, I’m Martin Tomov
 - 👀 I’m interested in JavaScript frameworks such as React, Vue, Angular, React Native, Ionic ...
 
 <!---
